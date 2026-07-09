@@ -1,0 +1,33 @@
+{
+  "approval_type": "string",
+  "noref_submission": "string",
+  "call_start_time": "2026-07-09T10:55:40.316+00:00",
+  "call_end_time": "2026-07-09T10:55:40.316+00:00",
+  "requester_name": "string",
+  "requester_email": "user@example.com",
+  "requester_phone": "string",
+  "copart_data": {
+    "Nama_Nasabah": "string",
+    "CIN": "string",
+    "nomor_rekening": "string",
+    "Nomor_Telepon": "string",
+    "Email": "string",
+    "Alamat_Identitas": "string",
+    "RT_Identitas": "string",
+    "RW_Identitas": "string",
+    "Kelurahan_Identitas": "string",
+    "Kecamatan_Identitas": "string",
+    "Kota_Identitas": "string",
+    "Provinsi_Identitas": "string",
+    "Kode_POS_Identitas": "string"
+  },
+  "product_data": [
+    {
+      "product_cd": "string",
+      "noref_product": "string",
+      "middleform_id": "string",
+      "middleform_mlt_id": "string",
+      "form_data": "string"
+    }
+  ]
+}
