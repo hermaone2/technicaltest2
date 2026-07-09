@@ -1,0 +1,26 @@
+{
+  "approval_type": "DA",
+  "noref_submission": "JDK82J",
+  "call_start_time": null,
+  "call_end_time": null,
+  "requester_name": "Budi Santoso",
+  "requester_email": "budisantoso@contoh.com",
+  "requester_phone": "0819293849382",
+  "copart_data": null,
+  "product_data": [
+    {
+      "product_cd": "VA",
+      "noref_product": "JDK82J001",
+  "middleform_id": "aa9a83hf7hkf|8fh37h7s|77f7sj29",
+  "middleform_mlt_id": "MLT5140662",
+      "form_data": null
+    },
+    {
+      "product_cd": "OCN",
+      "noref_product": "JDK82J002",
+  "middleform_id": "aa9a83hf7hkf|8fh37h7s|77f7sj29",
+  "middleform_mlt_id": "MLT5140662",
+      "form_data": null
+    }
+  ]
+}

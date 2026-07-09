@@ -1,0 +1,225 @@
+{
+  "approval_type": "TTD",
+  "noref_submission": "JDK82J",
+  "call_start_time": "2025-12-03T13:00:00+07:00",
+  "call_end_time": "2025-12-03T14:00:00+07:00",
+  "requester_name": "Budi Santoso",
+  "requester_email": "budisantoso@contoh.com",
+  "requester_phone": "0819293849382",
+  "copart_data": {
+    "Nama_Nasabah": "PT Andi Saputra",
+    "CIN": "123456789012",
+    "nomor_rekening": "1234567890",
+    "Nomor_Telepon": "081234567890",
+    "Email": "andi.saputra@example.com",
+    "Alamat_Identitas": "Jl. Sudirman No. 10, Blok A",
+    "RT_Identitas": "05",
+    "RW_Identitas": "03",
+    "Kelurahan_Identitas": "Menteng",
+    "Kecamatan_Identitas": "Tanah Abang",
+    "Kota_Identitas": "Jakarta Pusat",
+    "Provinsi_Identitas": "DKI Jakarta",
+    "Kode_POS_Identitas": "10230"
+  },
+  "product_data": [
+    {
+      "product_cd": "VA",
+      "noref_product": "JDK82J001",
+      "middleform_id": null,
+      "middleform_mlt_id": null,
+      "form_data": {
+        "corporate_id": null,
+        "vat_collector": null,
+        "business_entity": "Perdagangan Umum",
+        "avg_transaction": "5000000",
+        "highest_transaction": "10000000",
+        "bill_type": "YF",
+        "channel_type": [
+          {
+            "key": "1",
+            "value": "Y"
+          },
+          {
+            "key": "2",
+            "value": "Y"
+          }
+        ],
+        "fee_per_transaction": null,
+        "purpose_of_use": "1",
+        "type_of_usage": "1",
+        "customer_type": "B2B",
+        "product_name": "Produk A",
+        "va_account_number": "1234567890",
+        "company_email": "finance@contoh.com",
+        "pic_data": [
+          {
+            "pic_name": "Andi Saputra",
+            "pic_position": "Finance Manager",
+            "pic_id_number": "012345678912345",
+            "pic_handphone_number": "081234567890",
+            "pic_email": "andi.saputra@contoh.com"
+          },
+          {
+            "pic_name": "Siti Rahmawati",
+            "pic_position": "Accounting Supervisor",
+            "pic_id_number": "012345678912345",
+            "pic_handphone_number": "081122233344",
+            "pic_email": "siti.rahmawati@contoh.com"
+          },
+          {
+            "pic_name": "Budi Santoso",
+            "pic_position": "IT Support",
+            "pic_id_number": "012345678912345",
+            "pic_handphone_number": "081333445566",
+            "pic_email": "budi.santoso@contoh.com"
+          },
+          {
+            "pic_name": "Rina Kartika",
+            "pic_position": "Legal Officer",
+            "pic_id_number": "012345678912345",
+            "pic_handphone_number": "081445566778",
+            "pic_email": "rina.kartika@contoh.com"
+          }
+        ]
+        }
+      },
+      {
+        "product_cd": "OCN",
+        "noref_product": "JDK82J002",
+        "middleform_id": null,
+        "middleform_mlt_id": null,
+        "form_data": {
+          "submission_type": "1",
+          "feature_access": "1",
+          "daily_transaction_limit": "50000000",
+          "keybca_retrieval_method": "1",
+          "branch_code": "009",
+          "branch_name": "BCA Jakarta Pusat",
+          "mbb_address": "Jl. Sudirman No. 10",
+          "mbb_rt": "05",
+          "mbb_rw": "03",
+          "mbb_subdistrict": "Menteng",
+          "mbb_district": "Tanah Abang",
+          "mbb_city": "Jakarta Pusat",
+          "mbb_province": "DKI Jakarta",
+          "mbb_zip_zode": "10230",
+          "mbb_account_number": "9876543210",
+          "sysadmin1_name": "Andi Saputra",
+          "sysadmin1_user_id": "PIC001",
+          "sysadmin1_id_number": "012345678912345",
+          "sysadmin1_handphone_number": "081234567890",
+          "sysadmin1_email": "andi.saputra@contoh.com",
+          "sysadmin1_citizenship": "1",
+          "sysadmin2_name": "Siti Rahmawati",
+          "sysadmin2_user_id": "PIC002",
+          "sysadmin2_id_number": "012345678912345",
+          "sysadmin2_handphone_number": "081122233344",
+          "sysadmin2_email": "siti.rahmawati@contoh.com",
+          "sysadmin2_citizenship": "1"
+        }
+      },
+      {
+        "product_cd": "MCB",
+        "noref_product": "JDK82J003",
+        "middleform_id": null,
+        "middleform_mlt_id": null,
+        "form_data": {
+          "branch_code": "022",
+          "branch_name": "KCP Contoh",
+          "cis_number": "7656540",
+          "corp_name": "PT Apa aja",
+          "customer_type": "O",
+          "corp_type_cd": "1",
+          "segment_name": "Mass",
+          "account_number": "1234567890",
+          "tax_no": "1234567890123450",
+          "address": "Jl. Cendrawasih No. 101",
+          "rt": "001",
+          "rw": "009",
+          "corp_postal_code": "17116",
+          "corp_postal_code_id": "44",
+          "corp_sub_district_id": "100",
+          "corp_sub_district": "BOJONG RAWALUMBU",
+          "corp_district": "RAWALUMBU",
+          "corp_district_id": "200",
+          "corp_city_id": "200",
+          "corp_city": "KOTA BEKASI",
+          "corp_province_id": "200",
+          "corp_province": "JAWA BARAT",
+          "corp_phone_number": "0823192831",
+          "corp_email": "contohcorp@email.com",
+          "orga_business_type": "01",
+          "beneficiary_owner": "Sahudin",
+          "merchant_application_type": 1,
+          "noref_submission": "JDK82j003",
+          "corp_rt": "01",
+          "corp_rw": "00",
+          "is_need_document_franchise": 1,
+          "documents": [
+            {
+              "document_name": "Dokumen NIB",
+              "document_path": "do/mcr/namadokumen/ddmmyyyy;hhmmss",
+              "document_id": "12"
+            },
+            {
+              "document_name": "Dokumen NIB",
+              "document_path": "do/mcr/namadokumen/ddmmyyyy;hhmmss",
+              "document_id": "12"
+            }
+          ],
+          "is_edd_nrt_pep_company": 1,
+          "is_mcc_high_risk": 0,
+          "bank_name": "BANK MANDIRI (PERSERO), PT",
+          "country_names": [
+            "ANGUILLA"
+          ],
+          "subsidiary_lob_name": "Industri",
+          "is_Check_SLIK": 0,
+          "is_profesi": 0,
+          "facilities_type": [
+            "Toko",
+            "QRIS Statis"
+          ],
+          "nmid_qris_statis": "1212112878",
+          "mcc_id": "id MCC",
+          "mcc_code": "kode MCC",
+          "outlet_name": "Kebab Dondon",
+          "sticker_qris_outlet_name": "Resto Kebab Dondon",
+          "edc_receipt_name": "Kebab Dondon",
+          "outlet_address": "Jalan Sawo No.12",
+          "outlet_rt": "01",
+          "outlet_rw": "00",
+          "edc_receipt_address_1": "Jakarta Pusat",
+          "edc_receipt_address_2": "Cikini, Gondangdia",
+          "outlet_postalcode": "12878",
+          "outlet_postalcode_id": "212",
+          "outlet_sub_district_id": "11",
+          "outlet_sub_district": "Gondangdia",
+          "outlet_district_id": "22",
+          "outlet_district": "Cikini",
+          "outlet_city_id": "45",
+          "outlet_city": "Jakarta Pusat",
+          "outlet_province_id": "01",
+          "outlet_province": "DKI Jakarta",
+          "outlet_phone_number": "0888877727",
+          "agent_bank_code": "212",
+          "agent_bank_name": "xaverius",
+          "officer_code": "22",
+          "officer_name": "kevinn",
+          "outlet_building_type": "1",
+          "outlet_ownership_type": "1",
+          "outlet_operate_since": "05-2025",
+          "lowest_price_product": "110000",
+          "highest_price_product": 1000000000000,
+          "monthly_revenue_outlet": "50000000",
+          "merchant_criteria": "UBE",
+          "average_nominal_transaction": "2300000",
+          "pic_name": "Danu Ali",
+          "pic_phone_number": "08987239223",
+          "facility_id": "1,2",
+          "settlement_account_number": "1234567890",
+          "edc_quantity_unit": "4"
+        }
+      }
+    ]
+  }

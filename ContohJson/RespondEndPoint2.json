@@ -1,0 +1,121 @@
+[
+    {
+        "Tujuan Pengisian Formulir / Purpose of Filling Out the Form": [
+            {
+                "value": "Pendaftaran/Registration",
+                "checkmark": true
+            },
+            {
+                "value": "Data Penerima Fasilitas/Facility Recipient Data",
+                "checkmark": true
+            },
+            {
+                "value": "Data Fasilitas/Facility Data",
+                "checkmark": true
+            }
+        ],
+        "Customer Identification Number (CIN)": "2837485968574839",
+        "Kode Perusahaan / Company Code": "72837",
+        "Nama Perusahaan / Company Name": "PT Buat Sendiri",
+        "Corporate ID": "KKB2937485",
+        "Bidang Usaha / Business Sector": "Distribusi",
+        "Situs Web Perusahaan / Company Website": "www.buatsndr.com",
+        "Pemungut PPN / VAT Collector": [
+            {
+                "value": "Y",
+                "checkmark": true
+            }
+        ],
+        "Rerata Nominal Transaksi / Avg. Amount of Transaction": "Rp.200.000.000",
+        "Nominal Transaksi Tertinggi / Highest Transaction Amount": "Rp.300.000.000",
+        "Jenis Tagihan / Bill Type": [
+            {
+                "value": "Bill Fixed Amount",
+                "checkmark": true
+            }
+        ],
+        "Channel Transaksi / Transaction Channel": [
+            {
+                "value": "Fasilitas Perbankan Elektronik BCA/BCA's Electronic Banking Facility",
+                "checkmark": true
+            },
+            {
+                "value": "Bank Lain(BI-Fast/LLG/RTGS & Switching)/Other banks(BI-Fast/LLG/RTGS & Switching)",
+                "checkmark": true
+            },
+            {
+                "value": "Cabang BCA/BCA Counter",
+                "checkmark": true
+            }
+        ],
+        "Biaya per Transaksi / Fee per Transaction": "Rp. 1.500",
+        "Informasi Tambahan / Additional Information": "Saya Lapar",
+        "Tujuan Penggunaan BCA VA / BCA VA Purpose of Use": [
+            {
+                "value": "Penerimaan dana dari Pelanggan/Receipt of Funds from Customers",
+                "checkmark": true
+            },
+            {
+                "value": "Penambahan Saldo/Balance Top-up",
+                "checkmark": true
+            },
+            {
+                "value": "Bisnis(B2B)/Business(B2B)",
+                "checkmark": true
+            }
+        ]
+    },
+    {
+        "Sub-Kode Perusahaan/Company Sub-Code": "00000",
+        "No.Rekening Settlement/Settlement Account": "2839475869",
+        "Nama Produk/Product Name": "Nasi Padang",
+        "Email/Email": "nasi_padang@gmail.com",
+        "Entries": [
+            {
+                "Nama/Name": "Budiman",
+                "Jabatan/Title": "Direktur",
+                "NIK/Citizenship No": "2039485768574839",
+                "HP/Phone": "0827384758695",
+                "Email": "budiman@gmail.com",
+                "Keterangan / Remarks": [
+                    {
+                        "value": "Tambah/Add",
+                        "checkmark": true
+                    }
+                ]
+            }
+        ],
+        "Kuasa ini pun berlaku sejak formulir ini ditandatangani hingga menerima pencabutan tertulis dari Penerima Fasilitas": "",
+        "Nama Jelas": "Budiman"
+    },
+    {
+        "Demikian Pernyataan ini dibuat dengan sebenarnya untuk dapat dipergunakan sebagaimana mestinya": "This statement has been truthfully made in order to be used as appropriate.",
+        "Nama Jelas / Full Name": "Indah",
+        "Tanggal / Date": "12-10-2025",
+        "Unit Penerima Pengajuan / Application Receiving Unit": "DCM",
+        "Kode & Nama Cabang Koordinator / Coord. Branch Code & Name": "007-JAKARTA",
+        "PIC Cabang/Unit Kerja Kantor Pusat (UKKP)/Branch/Head Office Work Unit PIC": "Indah",
+        "Min Kabag/Min.Section Head": "Wendah",
+        "PIC Penerima Pengajuan / PIC of Application Receipt": "Yuli",
+        "Pejabat Pemberi Persetujuan / Approving Official": "Adit",
+        "Email PIC Cabang atau UKKP / Branch PIC or Head Office Unit Email": "indah@bca.com",
+        "Keterangan / Remarks": "Buat baru"
+    },
+    {
+        "Entries": [
+            {
+                "No": "1",
+                "Sub-Kode Perusahaan / Company Sub-Code": "00001",
+                "Nama Produk / Product Name": "Nasi Kapau",
+                "No. Rekening Settlement / Settlement Account": "7384957685",
+                "Email": "kapau@gmail.com",
+                "Keterangan / Remarks": [
+                    {
+                        "value": "Tambah/Add",
+                        "checkmark": true
+                    }
+                ]
+            }
+        ]
+    }
+]
